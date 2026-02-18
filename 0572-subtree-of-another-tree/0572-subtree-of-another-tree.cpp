@@ -18,9 +18,9 @@ class Solution {
     }
 public:
     bool isSubtree(TreeNode* root, TreeNode* subRoot) {
-        if(subRoot==nullptr){
-            return true;
-        }
+        // if(subRoot==nullptr){
+        //     return true;
+        // }
         if(!root){
             return false;
         }
