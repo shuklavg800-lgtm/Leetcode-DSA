@@ -16,6 +16,7 @@ Leetcode Questions Practice
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0735-asteroid-collision](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0907-sum-of-subarray-minimums) |
@@ -70,6 +71,7 @@ Leetcode Questions Practice
 | [0101-symmetric-tree](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
@@ -78,6 +80,7 @@ Leetcode Questions Practice
 | [0100-same-tree](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
@@ -87,6 +90,7 @@ Leetcode Questions Practice
 | [0101-symmetric-tree](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/shuklavg800-lgtm/Leetcode-DSA/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
